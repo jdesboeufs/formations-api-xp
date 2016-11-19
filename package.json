@@ -1,0 +1,17 @@
+{
+  "name": "formations-api-xp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "excel-stream": "^1.1.1",
+    "express": "^4.14.0",
+    "lodash": "^4.17.2",
+    "lunr": "^0.7.2",
+    "superagent": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node server"
+  }
+}
